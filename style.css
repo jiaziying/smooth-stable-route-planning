@@ -1,6 +1,0 @@
-.publication-content img,
-figure img {
-  max-width: 400px;
-  width: 100%;       /* scale down on small screens */
-  height: auto;
-}
